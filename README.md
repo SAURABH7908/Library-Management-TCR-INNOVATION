@@ -17,3 +17,5 @@ The Library Management System Java Project is developed using JAVA, MySQL Connec
 * Any IDE that runs java
 * MySQL
 * MySQL Connector (JDBC)
+
+* This Project is Developed by Saurabh Dhumal.
