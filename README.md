@@ -12,3 +12,8 @@ The Library Management System Java Project is developed using JAVA, MySQL Connec
 * Show All Book Details
 * Show All Student Details
 * About us etc.
+
+# Requirement
+* Any IDE that runs java
+* MySQL
+* MySQL Connector (JDBC)
